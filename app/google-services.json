@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "953295855952",
+    "firebase_url": "https://sdshackathon-cb56d.firebaseio.com",
+    "project_id": "sdshackathon-cb56d",
+    "storage_bucket": "sdshackathon-cb56d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953295855952:android:119b5b4784238d45",
+        "android_client_info": {
+          "package_name": "com.sdsHackathon.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953295855952-v1ntbdq4loev8icn5mdr5i7j4nf5fb8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXvZk-sLEZFo68Pa3OYh4XoYDpXANEUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953295855952:android:8da714b74dcc7c0e",
+        "android_client_info": {
+          "package_name": "com.example.abhi.rickshawowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953295855952-v1ntbdq4loev8icn5mdr5i7j4nf5fb8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKXvZk-sLEZFo68Pa3OYh4XoYDpXANEUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
